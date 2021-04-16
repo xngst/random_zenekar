@@ -1,6 +1,6 @@
 # RANDOM nemBÁNKITÓ FELLÉPŐ GENERÁTOR 
 
-honlap:  
+Elérhető oldal a herokun:  
 http://semmitnembankito2020.herokuapp.com/  
 Kb 30 másodpercet várni kell amíg felébred a szerver, utána röpül gyorsan :)
 
